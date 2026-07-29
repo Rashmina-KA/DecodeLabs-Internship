@@ -1,46 +1,86 @@
-# DecodeLabs Internship - Project 1
+\# DecodeLabs Cloud Computing Internship
 
-## Personal Portfolio Website
 
-This repository contains my **Project 1** submission for the **DecodeLabs Cloud Computing Internship**.
 
-The objective of this project was to create a simple personal portfolio website using HTML and CSS and deploy it using **Amazon S3 Static Website Hosting**.
+This repository contains my projects completed during the DecodeLabs Cloud Computing Internship.
 
-## Technologies Used
 
-- HTML5
-- CSS3
-- Amazon Web Services (AWS)
-- Amazon S3 Static Website Hosting
-- GitHub
 
-## Project Features
+\## Projects
 
-- Responsive portfolio layout
-- About Me section
-- Skills section
-- Education section
-- Contact information
-- Clean and simple user interface
 
-> **Note:** This portfolio was created specifically for the DecodeLabs Internship Project 1. Therefore, sections such as projects, certifications, and additional achievements have been kept minimal and are intended only for this internship submission.
 
-## Live Website
+\## Project 1 - Personal Portfolio Website
 
-Paste your AWS S3 Website URL here.
 
-Example:
 
-http://your-bucket-name.s3-website.ap-south-1.amazonaws.com
+A personal portfolio website created using HTML and CSS and deployed using Amazon S3 Static Website Hosting.
 
-## GitHub Repository
 
-This repository contains the source code used for the internship project.
 
-## Author
+\### Technologies Used
 
-**K.A.A. Rashmina**
+\- HTML5
 
----
+\- CSS3
 
-**Project:** DecodeLabs Cloud Computing Internship - Project 1
+\- Amazon S3
+
+\- GitHub
+
+
+
+\---
+
+
+
+\## Project 2 - AWS EC2 Web Server Deployment
+
+
+
+A website hosted on an AWS EC2 Ubuntu instance using Apache Web Server.
+
+
+
+\### Technologies Used
+
+\- AWS EC2
+
+\- Ubuntu Linux
+
+\- Apache Web Server
+
+\- SSH
+
+\- GitHub
+
+
+
+\### Project Work Completed
+
+\- Created an EC2 instance
+
+\- Connected using SSH
+
+\- Installed Apache Web Server
+
+\- Configured website files
+
+\- Hosted webpage using EC2 public IP
+
+
+
+\---
+
+
+
+\## Author
+
+
+
+K.A. Rashmina
+
+
+
+DecodeLabs Cloud Computing Internship
+
