@@ -31,7 +31,7 @@ Paste your AWS S3 Website URL here.
 
 Example:
 
-http://your-bucket-name.s3-website.ap-south-1.amazonaws.com
+(http://portfolio-2026-01.s3-website.ap-south-1.amazonaws.com/)
 
 ## GitHub Repository
 
